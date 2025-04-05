@@ -74,3 +74,5 @@ http://localhost:7860
 ## الدعم
 إذا واجهت أي مشاكل أو كان لديك أي استفسارات، يرجى فتح مشكلة جديدة في صفحة المشروع.
 # finial-system
+# finial-system
+# final_integrated_system
